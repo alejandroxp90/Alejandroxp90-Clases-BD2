@@ -15,10 +15,10 @@ public class ProbarAnimales {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+
         Mamifero perro=new Mamifero();
         perro.setNombre("Ludovico");
-        System.out.println("Mi perro se llama: " perro.getNombre());
+        System.out.println("Mi perro se llama:"+perro.getNombre());
     }
     
 }

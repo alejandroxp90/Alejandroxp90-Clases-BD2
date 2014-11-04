@@ -8,13 +8,14 @@ package Herencia;
 
 
 public class Animal {
+
     private String nombre;
-    //constructor getters and setter
 
-    public Animal(String nombre) {
-        this.nombre = nombre;
-    }
-
+   
+public Animal(int x){
+    
+}
+ 
     public String getNombre() {
         return nombre;
     }
@@ -22,5 +23,6 @@ public class Animal {
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
+    
+    
 }
-
