@@ -1,7 +1,6 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+automatico en la clase mamifero se poran usar los atributosy los metodos. menos
+los constructores, esos no se heredan.
  */
 package Herencia;
 
@@ -22,3 +21,10 @@ public class ProbarAnimales {
     }
     
 }
+
+/*
+PASOS PARA CREAR UNA EXCEPCION EN JAVA
+1. CREAR LA CLASE QUE CONTENGA LA REGLA
+2. A ESA CLASE HEREDARLE LA CLASE EXCEPTION
+3. IMPLEMENTAR LA EXCEPCION EN TU CODIGO DE APLICACION
+*/
